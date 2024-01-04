@@ -43,15 +43,15 @@
   <img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&amp;logo=Fluentd&logoColor=white" />
   <img src="https://img.shields.io/badge/VUE.js-4FC08D?style=for-the-badge&amp;logo=VUE.js&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=Ubuntu&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&amp;logo=apachetomcat&amp;logoColor=white">
 </p>
 
 <p align="center" dir="auto">
   <h3>💡Tools</h3>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&amp;logo=EclipseIDE&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&amp;logo=VisualStudioCode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&amp;logo=apachetomcat&amp;logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=GitHub&logoColor=white" />
 </p>
 <br><br>
 
