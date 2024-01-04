@@ -4,9 +4,11 @@
 </h1>
 
 <p align="center" dir="auto">
-  <h2>☁My Profile☁️</h2>
+  <h2>🎨 SNS & Portfolio 🎨</h2>
   <a href="https://needit.my.canva.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" /></a>
+  <a href="mailto:xl7923@naver.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
+<br>
 
 <p align="center" dir="auto">
   <h2>📚My Tech Stack📚</h2>
@@ -35,10 +37,11 @@
   <h3>💡Web Skills</h3>
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&amp;logo=jsp&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Ajax-ECD53F?style=for-the-badge&amp;logo=Ajax&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&amp;logo=Bootstrap&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&amp;logo=VUE.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&amp;logo=Fluentd&logoColor=white" />
+  <img src="https://img.shields.io/badge/VUE.js-4FC08D?style=for-the-badge&amp;logo=VUE.js&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=Ubuntu&logoColor=white" />
 </p>
 
@@ -50,14 +53,8 @@
   <br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=GitHub&logoColor=white" />
 </p>
+<br><br>
 
-<h2>
-  <g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></h2>
-  <div>xl7923@naver.com</div>
-  <br>
-</p>
-
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeeHeung&layout=compact&theme=swift">
 <img src="https://github-readme-stats.vercel.app/api?username=KeeHeung&show_icons=true">
 <br>
