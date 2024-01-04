@@ -55,6 +55,6 @@
 </p>
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeeHeung&layout=compact&theme=swift">
-<img src="https://github-readme-stats.vercel.app/api?username=KeeHeung&show_icons=true">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeeHeung&show_icons=true&theme=blueberry) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeeHeung&layout=donut&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 <br>
