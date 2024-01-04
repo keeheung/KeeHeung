@@ -6,29 +6,31 @@
 
 <p align="center" dir="auto">
     <h2>☁My Profile☁️</h2>
-    <a href="https://needit.my.canva.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FCD5CE?style=for-the-badge&logo=microsoftacademic&logoColor=white"></a>
+    <a href="https://needit.my.canva.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" /></a>
 </p>
 <br>
 <h2><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></h2><div>xl7923@naver.com</div><br>
 </p>
 
 <p align="center" dir="auto">
-  <h2><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji>My Technology Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></h2>
+  <h2><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">📚</g-emoji>My Tech Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">📚</g-emoji></h2>
 </p>
 
 <p align="center" dir="auto">
-  <h3><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Languages</h3>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">  
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
+    <h3><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Languages</h3>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+    <br>
+    
 </p>
     
 <p align="center" dir="auto">
-  <h3><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>DB</h3>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=Oracle&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/postgresql-003545?style=for-the-badge&logo=postgreSQL&logoColor=white">
+    <h3><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>DB</h3>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=Oracle&logoColor=white" />
 </p>
 
 <p align="center" dir="auto">
