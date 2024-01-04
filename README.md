@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center" dir="auto">
-  <h2>🎨 SNS & Portfolio 🎨</h2>
+  <h2>🎨 Portfolio & SNS 🎨</h2>
   <a href="https://needit.my.canva.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" /></a>
   <a href="mailto:xl7923@naver.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 <br>
 
 <p align="center" dir="auto">
-  <h2>📚My Tech Stack📚</h2>
+  <h2>📚 My Tech Stack 📚</h2>
 </p>
 
 <p align="center" dir="auto">
