@@ -1,15 +1,12 @@
 <div align="center">
 
 <h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Hello,I'm%20KeeHeung👋&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,I'm%20KeeHeung!&fontSize=60&animation=fadeIn&fontAlignY=36&fontColor=ffffff" />
 </h1>
 
 <p align="center" dir="auto">
     <h2>☁My Profile☁️</h2>
     <a href="https://needit.my.canva.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" /></a>
-</p>
-<br>
-<h2><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></h2><div>xl7923@naver.com</div><br>
 </p>
 
 <p align="center" dir="auto">
@@ -45,6 +42,11 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=Spring&amp;logoColor=white">
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&amp;logo=apachetomcat&amp;logoColor=white">
 </p>
+
+<br>
+<h2><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></h2><div>xl7923@naver.com</div><br>
+</p>
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeeHeung&layout=compact&theme=swift">
 <img src="https://github-readme-stats.vercel.app/api?username=KeeHeung&show_icons=true">
