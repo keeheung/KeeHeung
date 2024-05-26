@@ -3,16 +3,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,I'm%20KeeHeung!&fontSize=60&animation=fadeIn&fontAlignY=36&fontColor=ffffff" />
 </h1>
 
+<!--
 <p align="center" dir="auto">
   <h2>🎨 Portfolio & SNS 🎨</h2>
   <a href="https://needit.my.canva.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" /></a>
   <a href="mailto:xl7923@naver.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 <br>
+-->
 
+<!--
 <p align="center" dir="auto">
   <h2>📚 My Tech Stack 📚</h2>
 </p>
+-->
 
 <p align="center" dir="auto">
   <h3>💡Languages</h3>
@@ -47,6 +51,7 @@
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&amp;logo=apachetomcat&amp;logoColor=white">
 </p>
 
+<!--
 <p align="center" dir="auto">
   <h3>💡Tools</h3>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&amp;logo=EclipseIDE&logoColor=white" />
@@ -54,6 +59,7 @@
   <br>
 </p>
 <br><br>
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeeHeung&show_icons=true&theme=blueberry) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeeHeung&layout=donut&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
