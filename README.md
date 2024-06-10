@@ -49,6 +49,7 @@
   <br>
   <img src="https://img.shields.io/badge/AWS%20EC2-E95420?style=for-the-badge&amp;" />
   <img src="https://img.shields.io/badge/AWS%20RDS-E95420?style=for-the-badge&amp;" />
+  <img src="https://img.shields.io/badge/ORACLE%20CLOUD-F80000?style=for-the-badge&amp;" />
 </p>
 <br>
 <br>
