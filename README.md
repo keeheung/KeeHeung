@@ -52,6 +52,12 @@
   <img src="https://img.shields.io/badge/ORACLE%20CLOUD-F80000?style=for-the-badge&amp;" />
 </p>
 <br>
+<p align="center" dir="auto">
+  <h3><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>License</h3>
+  <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 정보처리기사<br>
+  <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> SQL개발자(SQLD)
+</p>
+<br>
 <br>
 
 <!--
