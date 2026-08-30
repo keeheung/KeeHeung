@@ -15,4 +15,6 @@
 - Server — Go · Java/Spring Boot · MariaDB/PostgreSQL · WebSocket
 - AI 협업 — Claude Code · Codex CLI (이종 AI 교차 검증)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keeheung&show_icons=true&theme=github_dark&hide_border=true&locale=kr&include_all_commits=true)
+
 dsl8087@gmail.com
